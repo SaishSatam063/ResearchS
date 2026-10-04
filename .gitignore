@@ -1,0 +1,30 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# FastAPI uploaded files
+backend/uploads/*
+
+# Environment variables
+.env
+*.env
+
+# Node dependencies
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# Python generated files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
